@@ -1,1 +1,0 @@
-https://Semenakinfiev.github.io/cssBayan/cssBayan/index.html
