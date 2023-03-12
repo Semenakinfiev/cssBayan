@@ -1,1 +1,1 @@
-https://Semenakinfiev.github.io/cssBayan/cssBayan/index.html
+https://Semenakinfiev.github.io/cssBayan/cssBayan/dist/index.html
